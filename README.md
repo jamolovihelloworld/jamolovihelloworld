@@ -28,8 +28,8 @@
 
 ## 📊 GitHub statisticts 
 
-![jamolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=menacedjava&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menacedjava&layout=compact&theme=radical)
+![jamolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamolovi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamolovi&layout=compact&theme=radical)
 
 ---
 
@@ -98,5 +98,5 @@ Feel free to star ⭐ my repositories, fork my projects, or drop me a message. L
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{menacedjava}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jamolovihelloworld}/count.svg" /></p> 
 </div>
