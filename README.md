@@ -1,15 +1,6 @@
 ### *JAMOLOVI*
 
 [![GitHub followers](https://img.shields.io/github/followers/JAMOLOVI?style=social)](https://github.com/JAMOLOVI)
-<a href="https://user-badge.committers.top/uzbekistan/jamolovihelloworld">
-  <img src="https://user-badge.committers.top/uzbekistan/jamolovihelloworld" alt="Committers Top" />
-</a>
-
- ---
-    
-<p align="center">
- <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>
-</p>
 
 ---
 
