@@ -1,102 +1,101 @@
-### *JAMOLOVI*
-
-[![GitHub followers](https://img.shields.io/github/followers/JAMOLOVI?style=social)](https://github.com/JAMOLOVI)
-
----
-
 <div align="center">
- <img src="https://github.com/user-attachments/assets/97b79ec2-eed3-4fbe-847f-acfa3fe66040"  style="width: 350px; height: auto;">  <img src="https://github.com/user-attachments/assets/62b67557-7cd0-4205-ac7c-25564fc56d5f"  style="width: 350px; height: auto;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 800px;">
 </div>
 
----
+<div id="user-content-toc" style="background: linear-gradient(135deg, #2b2b2b, #1e1e1e); padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); margin: 20px 0;">
+  <ul align="center" style="list-style: none;">
+    <li><h1 style="display: inline-block; color: #ebdbb2; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Hi 👋, I'm JAMOLOVI</h1></li>
+  </ul>
+</div>
 
-### Skills
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+<div align="center">
+  <img width="100%" style="max-width: 600px; border-radius: 35px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuaDEyN2R5aml3cTk3OGI3YmI0eHA4OWxjYTVlbG55cXc5ZXU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
+</div>
 
-</p>
+<div style="margin: 40px 0; padding: 20px; background: #3c3836; border-radius: 10px; color: #ebdbb2; font-family: 'Arial', sans-serif;">
+  <h2 style="color: #fabd2f; text-align: center;">About Me</h2>
+  <ul style="list-style: none; padding: 0; line-height: 1.8;">
+    <li><b>Current Role:</b> College Student</li>
+    <li><b>Experience:</b> Over 7 years developing servers with <a href="https://github.com/pmmp/PocketMine-MP" style="color: #8ec07c;">PocketMine-MP</a> using PHP.</li>
+    <li><b>Multilingual Expertise:</b> Golang, PHP, JavaScript, and more.</li>
+    <li><b>Primary Languages:</b> Golang, JavaScript, Java</li>
+  </ul>
+</div>
 
+<div style="margin: 40px 0;">
+  <h2 style="color: #fabd2f; text-align: center; font-family: 'Segoe UI', sans-serif;">Highlighted Projects</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
+    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
+      <h3 style="color: #8ec07c;">Libraries</h3>
+      <ul style="list-style: none; padding: 0;">
+        <li><a href="https://github.com/VennDev/Vapm" style="color: #ebdbb2; text-decoration: none;">Vapm</a>: Async PHP library for performance optimization.</li>
+        <li><a href="https://github.com/VennDev/VGo" style="color: #ebdbb2; text-decoration: none;">VGo</a>: Simplifies Golang Goroutines with Async/Await.</li>
+        <li><a href="https://github.com/VennDev/vb-request" style="color: #ebdbb2; text-decoration: none;">VB-Request</a>: Lightweight load balancing library.</li>
+      </ul>
+    </div>
+    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
+      <h3 style="color: #8ec07c;">Game Development</h3>
+      <ul style="list-style: none; padding: 0;">
+        <li><a href="https://github.com/VennDev/VTetris" style="color: #ebdbb2; text-decoration: none;">VTetris</a>: Classic tile-matching game in Golang.</li>
+        <li><a href="https://github.com/pmmp/PocketMine-MP" style="color: #ebdbb2; text-decoration: none;">PocketMine-MP</a>: Contributed plugins and tools for Minecraft server.</li>
+      </ul>
+    </div>
+    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
+      <h3 style="color: #8ec07c;">Web Development</h3>
+      <ul style="list-style: none; padding: 0;">
+        <li><a href="https://github.com/Nhom7-CNPM3/RestAPI" style="color: #ebdbb2; text-decoration: none;">VRestAPI</a>: PHP REST API with Slim framework.</li>
+      </ul>
+    </div>
+    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
+      <h3 style="color: #8ec07c;">Information Security</h3>
+      <ul style="list-style: none; padding: 0;">
+        <li><a href="https://github.com/jamolovihelloworld/SpartanPHP" style="color: #ebdbb2; text-decoration: none;">SpartanPHP</a>: Private tool for securing PHP code.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
----
-
-## 📊 GitHub statisticts 
-
-![jamolov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamolovi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamolovi&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophy  
-![trophy](https://github-profile-trophy.vercel.app/?username=jamolovihelloworld&theme=dracula&margin-w=10&no-frame=true)
-
----
-
-<p align="center">
-  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
-</p>
-
-  <p align="center" >
-  <img alt="photo" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
+<div style="margin: 40px 0; text-align: center;">
+  <h2 style="color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Contact Information</h2>
+  <p style="color: #ebdbb2; line-height: 1.6;">
+    <b>Email:</b> pnam5005@gmail.com<br>
+    <b>Discord:</b> <a href="#" style="color: #8ec07c;">venndev</a><br>
+    <b>Facebook:</b> <a href="https://www.facebook.com/Nam0981/" style="color: #8ec07c;">Nam0981</a>
   </p>
-
-<p align="center">
-  <img src="https://i.gifer.com/3IsP.gif" alt="My Image" style="height: 80px; width: auto;" />
-</p>
-    <div align="center">
- <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
-
 </div>
 
-### 🌟 **Thank You for Visiting!**
+<div align="center" style="margin: 40px 0;">
+  <h2 style="color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Stats & Achievements</h2>
+  <table style="border: none; width: 100%; max-width: 800px; margin: 0 auto;">
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <img style="width: 100%; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=jamolovihelloworld&theme=gruvbox&show_icons=true&count_private=true">
+        <img style="width: 100%; border-radius: 10px; margin-top: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=jamolovihelloworld&theme=gruvbox&hide_border=false">
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <img style="width: 100%; border-radius: 10px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jamolovihelloworld&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+      </td>
+    </tr>
+  </table>
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img style="width: 100%; max-width: 700px; border-radius: 10px;" src="https://github-profile-trophy.vercel.app/?username=jamolovihelloworld&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5&no-bg=true">
+    </a>
+  </div>
+</div>
 
-Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
+<div id="user-content-toc" style="margin: 40px 0; text-align: center;">
+  <ul style="list-style: none;">
+    <li><h2 style="display: inline-block; color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Technologies That I Know 👨🏻‍💻</h2></li>
+  </ul>
+</div>
 
----
+<div align="center" style="margin: 40px 0;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,neovim,vim,cpp,c,cs,go,rust,php,js,ts,py,java,html,css,discord,docker,postgres,mysql,dotnet,redis,laravel,github,linux,mongodb,nextjs,nodejs,postman,react,vscode,eclipse,idea,phpstorm,rider,webstorm,bootstrap,visualstudio,ubuntu&perline=14" style="max-width: 800px;">
+  </a>
+</div>
 
-####
-<br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
- <p align="center">
-  <a href="https://jrohit.com.np/" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
-  </a>
-  
- </p>
- 
 <div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jamolovihelloworld}/count.svg" /></p> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%; max-width: 800px;">
 </div>
