@@ -15,57 +15,7 @@
   <img width="100%" style="max-width: 600px; border-radius: 35px; box-shadow: 0 4px 15px rgba(0,0,0,0.4);" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhuaDEyN2R5aml3cTk3OGI3YmI0eHA4OWxjYTVlbG55cXc5ZXU0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3978y5HqiEtqupiM/giphy.gif">
 </div>
 
-<div style="margin: 40px 0; padding: 20px; background: #3c3836; border-radius: 10px; color: #ebdbb2; font-family: 'Arial', sans-serif;">
-  <h2 style="color: #fabd2f; text-align: center;">About Me</h2>
-  <ul style="list-style: none; padding: 0; line-height: 1.8;">
-    <li><b>Current Role:</b> College Student</li>
-    <li><b>Experience:</b> Over 7 years developing servers with <a href="https://github.com/pmmp/PocketMine-MP" style="color: #8ec07c;">PocketMine-MP</a> using PHP.</li>
-    <li><b>Multilingual Expertise:</b> Golang, PHP, JavaScript, and more.</li>
-    <li><b>Primary Languages:</b> Golang, JavaScript, Java</li>
-  </ul>
-</div>
-
-<div style="margin: 40px 0;">
-  <h2 style="color: #fabd2f; text-align: center; font-family: 'Segoe UI', sans-serif;">Highlighted Projects</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Libraries</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/VennDev/Vapm" style="color: #ebdbb2; text-decoration: none;">Vapm</a>: Async PHP library for performance optimization.</li>
-        <li><a href="https://github.com/VennDev/VGo" style="color: #ebdbb2; text-decoration: none;">VGo</a>: Simplifies Golang Goroutines with Async/Await.</li>
-        <li><a href="https://github.com/VennDev/vb-request" style="color: #ebdbb2; text-decoration: none;">VB-Request</a>: Lightweight load balancing library.</li>
-      </ul>
-    </div>
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Game Development</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/VennDev/VTetris" style="color: #ebdbb2; text-decoration: none;">VTetris</a>: Classic tile-matching game in Golang.</li>
-        <li><a href="https://github.com/pmmp/PocketMine-MP" style="color: #ebdbb2; text-decoration: none;">PocketMine-MP</a>: Contributed plugins and tools for Minecraft server.</li>
-      </ul>
-    </div>
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Web Development</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/Nhom7-CNPM3/RestAPI" style="color: #ebdbb2; text-decoration: none;">VRestAPI</a>: PHP REST API with Slim framework.</li>
-      </ul>
-    </div>
-    <div style="background: #504945; padding: 20px; border-radius: 10px; color: #ebdbb2;">
-      <h3 style="color: #8ec07c;">Information Security</h3>
-      <ul style="list-style: none; padding: 0;">
-        <li><a href="https://github.com/jamolovihelloworld/SpartanPHP" style="color: #ebdbb2; text-decoration: none;">SpartanPHP</a>: Private tool for securing PHP code.</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<div style="margin: 40px 0; text-align: center;">
-  <h2 style="color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Contact Information</h2>
-  <p style="color: #ebdbb2; line-height: 1.6;">
-    <b>Email:</b> pnam5005@gmail.com<br>
-    <b>Discord:</b> <a href="#" style="color: #8ec07c;">venndev</a><br>
-    <b>Facebook:</b> <a href="https://www.facebook.com/Nam0981/" style="color: #8ec07c;">Nam0981</a>
-  </p>
-</div>
+>
 
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #fabd2f; font-family: 'Segoe UI', sans-serif;">Stats & Achievements</h2>
