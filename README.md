@@ -9,7 +9,6 @@
 <div id="user-content-toc" style="background: linear-gradient(135deg, #2b2b2b, #1e1e1e); padding: 30px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.5); margin: 20px 0;">
   <ul align="center" style="list-style: none;">
     <li><h1 style="display: inline-block; color: #ebdbb2; font-family: 'Segoe UI', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Hi 👋, I'm JAMOLOVI</h1></li>
-    <li><h3 style="color: #fabd2f;">🚀 Top 46 GitHub Committer in Uzbekistan</h3></li>
   </ul>
 </div>
 
