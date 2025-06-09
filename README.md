@@ -1,5 +1,5 @@
-<a href="https://committers.top/uzbekistan/jamolovihelloworld">
-  <img src="https://user-badge.committers.top/uzbekistan/jamolovihelloworld.svg" alt="Committers Top Contributor (46th in Uzbekistan)" />
+<a href="https://user-badge.committers.top/uzbekistan_public/jamolovihelloworld">
+  <img src="https://user-badge.committers.top/uzbekistan_public/jamolovihelloworld.svg" alt="Committers Top Contributor (46th in Uzbekistan)" />
 </a>
 
 <div align="center">
