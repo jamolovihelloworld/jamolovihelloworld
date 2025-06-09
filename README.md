@@ -19,8 +19,6 @@
 ---
     
 <img width="1000" src="snake.svg" alt="snake"/>
-<img width="1000" src="matrix.svg" alt="matrix"/>
-
 <p>
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RissMorisson/RissMorisson/output/pacman-contribution-graph.svg">
 </p>
@@ -195,5 +193,5 @@ nney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height=
 Feel free to star ⭐ my repositories, fork my projects, or drop me a message. Let’s create something from nothing! 🎮
 
 <p align="center">
- <img width="1000" src=".github/workflows/matrix.svg" alt="snake"/>
+<img width="1000" src="matrix.svg" alt="matrix"/>
 </p>
