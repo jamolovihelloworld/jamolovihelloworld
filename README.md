@@ -18,11 +18,8 @@
 
 ---
     
-<p align="center">
- <img width="1000" src=".github/workflows/snake.svg" alt="snake"/>
-</p>
-
----
+<img width="1000" src="snake.svg" alt="snake"/>
+<img width="1000" src="matrix.svg" alt="matrix"/>
 
 <p>
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RissMorisson/RissMorisson/output/pacman-contribution-graph.svg">
