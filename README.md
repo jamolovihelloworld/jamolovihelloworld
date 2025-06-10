@@ -176,64 +176,17 @@ I'm a passionate and self-driven *Java Backend Developer* with a strong interest
 ## 🏆 GitHub Trophy  
 ![trophy](https://github-profile-trophy.vercel.app/?username=jamolovihelloworld&theme=dracula&margin-w=10&no-frame=true)
 
----
-## 📜 Certifications
-<div>
-  <img src="https://images.credly.com/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/twitter_thumb_201604_blob" width="140"/>
-  <img src="https://github.com/cgrundman/cgrundman/blob/main/gen_ai.png" width="140"/>
-  <img src="https://github.com/cgrundman/cgrundman/blob/main/cd.png" width="140"/>
-
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="140"/>
-
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menacedjava" alt="menacedjava" />
-</div>
-
----
-
-<p align="center">
-  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p>
-
-
-<p align="center">
-  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
-</p>
-
-  <p align="center" >
-  <img alt="photo" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
-  </p>
-
-
-<p align="center">
-  <img src="https://i.gifer.com/3IsP.gif" alt="My Image" style="height: 80px; width: auto;" />
-</p>
-    <div align="center">
- <img src="https://github.com/user-attachments/assets/ed4017d8-8f66-4870-9bf8-a2e9873aca58"  style="width: 250px; height: auto;">  <img src="https://github.com/user-attachments/assets/4539f867-57a1-426f-9d38-a8e3a6b7256d"  style="width: 250px; height: auto;">
-
-</div>
 
 
 
-####
-<br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
- <p align="center">
-  <a href="https://jrohit.com.np/" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
+
+
+
+  
 
   <a href="https://jrohit.com.np" target="_blank">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
